@@ -6,6 +6,8 @@ Tested & Working:
 * SPI
 * USB CDC
 * UARTs
+* Flashing with the default onboard bootloader. 
+Make sure you use the special Arduino variant of the `bossac`.
 
 Untested
 * PWM
